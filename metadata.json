@@ -1,0 +1,6 @@
+{
+  "name": "MiniLLM",
+  "description": "An extremely lightweight, OpenAI-compatible unified API gateway and management dashboard for proxying, logging, and securing multiple LLM providers (Gemini, OpenAI, Anthropic, DeepSeek).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
